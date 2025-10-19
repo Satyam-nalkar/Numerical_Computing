@@ -135,8 +135,6 @@ int main() {
     // int maxIterations;
     double tolerance;
     
-    // cout << "Enter maximum iterations for Gauss-Seidel: ";
-    // cin >> maxIterations;
     
     cout << "Enter tolerance value for Gauss-Seidel: ";
     cin >> tolerance;

@@ -111,6 +111,7 @@ Matrix Matrix::add(const Matrix& second) const {
     return result;
 }
 
+
 //  Matrix Subtraction 
 Matrix Matrix::sub(const Matrix &second) const {
     if (rows != second.rows || cols != second.cols) {
